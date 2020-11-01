@@ -1,0 +1,10 @@
+F:\5th sem\Practical\Tcpclient\bin\Debug\Tcpclient.exe.config
+F:\5th sem\Practical\Tcpclient\bin\Debug\Tcpclient.exe
+F:\5th sem\Practical\Tcpclient\bin\Debug\Tcpclient.pdb
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.csprojAssemblyReference.cache
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.Form1.resources
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.Properties.Resources.resources
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.csproj.GenerateResource.cache
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.csproj.CoreCompileInputs.cache
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.exe
+F:\5th sem\Practical\Tcpclient\obj\Debug\Tcpclient.pdb
