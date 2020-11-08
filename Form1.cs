@@ -25,6 +25,7 @@ namespace Tcpclient
             InitializeComponent();
         }
 
+        //client side connection with sever
         private void button1_Click(object sender, EventArgs e)
         {
             client = new TcpClient();
@@ -50,6 +51,7 @@ namespace Tcpclient
             }
         }
 
+        //background work of receiving message
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
             while(client.Connected)
@@ -72,6 +74,7 @@ namespace Tcpclient
             }
         }
 
+        //background work of sending message
         private void backgroundWorker2_DoWork(object sender, DoWorkEventArgs e)
         {
             if (client.Connected)
@@ -90,6 +93,7 @@ namespace Tcpclient
             backgroundWorker2.CancelAsync();
         }
 
+        //after typing the message in textbox to send from client
         private void button2_Click(object sender, EventArgs e)
         {
             if(textBox3.Text != "")
